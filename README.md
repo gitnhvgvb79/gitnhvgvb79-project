@@ -1,5 +1,18 @@
 # gitnhvgvb79-project
 
-My first project on GitHub.
+Personal projects and experiments.
 
-Made by [gitnhvgvb79](https://github.com/gitnhvgvb79)
+## About
+
+I'm learning Python and JavaScript, and exploring open source.
+
+## Getting started
+
+```bash
+git clone https://github.com/gitnhvgvb79/gitnhvgvb79-project.git
+cd gitnhvgvb79-project
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
